@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://lautarodanelmoroni-portfolio.reflex.run
+
+# Sitemaps
+Sitemap: https://lautarodanelmoroni-portfolio.reflex.run/sitemap.xml

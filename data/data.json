@@ -1,0 +1,240 @@
+{
+    "title": " Lautaro Danel Moroni | Portafolio",
+    "description": "",
+    "image": "/avatar.png",
+    "avatar": "/avatar.png",
+    "name": "Lautaro Danel Moroni",
+    "skill": "Back-End Developer",
+    "location": "Posadas, Misiones, Argentina",
+    "media": {
+        "email": "moro12389@gmail.com",
+        "cv": "/data/LautaroDanelMoroni-Programacion.pdf",
+        "github": "https://www.github.com/lautaro-moroni-dev",
+        "likedin": "https://www.linkedin.com/in/lautaro-moroni"
+    },
+    "about": "I am a passionate programmer who is entering the world of Electronic Engineering. I have experience in various programming languages, which allows me to approach diverse projects efficiently and creatively. My goal is to combine my technical skills and knowledge in electronics to develop innovative solutions that contribute to technological advancement.",
+    "technologies": [
+        {
+            "icon": "devicon-amazonwebservices-plain",
+            "name": "AWS"
+        },
+        {
+            "icon": "devicon-bootstrap-plain",
+            "name": "bootstrap"
+        },
+        {
+            "icon": "devicon-tailwindcss-plain",
+            "name": "Tailwindcss"
+        },
+        {
+            "icon": "devicon-java-plain",
+            "name": "java"
+        },
+        {
+            "icon": "devicon-spring-plain",
+            "name": "Spring"
+        },
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        },
+        {
+            "icon": "devicon-django-plain",
+            "name": "django"
+        },
+        {
+            "icon": "devicon-css3-plain",
+            "name": "css3"
+            
+        },
+        {
+            "icon": "devicon-html5-plain",
+            "name": "html5"
+        },
+        {
+            "icon": "devicon-javascript-plain",
+            "name": "javascript"
+        },
+	    {
+            "icon": "devicon-react-plain",
+            "name": "react"
+        },
+	    {
+            "icon": "devicon-linux-plain",
+            "name": "linux"
+        },  
+        {
+            "icon": "devicon-git-plain",
+            "name": "git"
+        },
+	    {
+            "icon": "devicon-mysql-plain",
+            "name": "mysql"
+        },
+	    {
+            "icon": "devicon-mongodb-plain",
+            "name": "mongodb"
+        },
+	    {
+            "icon": "devicon-postgresql-plain-wordmark",
+            "name": "postgresql"
+        }
+	
+    ],
+    "experience": [
+        {
+            "icon": "code",
+            "title": "Animal World",
+            "subtitle": "Developer",
+            "description": "Conexión de API de tango Software a Microsoft Power Bi",
+            "date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "code",
+            "title": "Rick and Morty",
+            "subtitle": "Rick and Morty - API",
+            "description": "Page created with the Rick And Morty API",
+            "technologies": [
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Binario"
+                }
+            ],
+            "image": "/project_2.png",
+            "url": "https://rickand-morty-page-with-api.vercel.app/",
+            "github": "https://github.com/lautaro-moroni-dev/RickandMorty-PageWithApi"
+        },
+        
+               {
+            "icon": "code",
+            "title": "Pure Clean",
+            "subtitle": "E-commerce",
+            "description": "E-commerce for the sale of cleaning products",
+            "technologies": [
+                {
+                    "icon": "devicon-wordpress-plain",
+                    "name": "Wordpress"
+                },
+                {
+                    "icon": "devicon-woocommerce-plain",
+                    "name": "Woocommerce"
+                }
+            ],
+            "image": "/logo-editado.png",
+            "url": "https://purecleanposadas.com.ar/"
+        }
+    ],
+    "group_projects": [
+        {
+            "icon": "code",
+            "title": "Mapache Gym",
+            "subtitle": "Web-App",
+            "description": "Web-App for gym management",
+            "technologies": [
+                {
+                    "icon": "devicon-java-plain",
+                    "name": "Java"
+                },
+                {
+                    "icon": "devicon-spring-original",
+                    "name": "Spring"
+                },
+                {
+                    "icon": "devicon-postgresql-plain",
+                    "name": "PostgreSQL"
+                }
+            ],
+            "image": "/project_1.png",
+            "url": "https://mapache-docker.onrender.com/",
+            "github": "https://github.com/lautaro-moroni-dev/Mapache-Gym"
+        },
+        
+               {
+            "icon": "code",
+            "title": "Mr.Chef - Street food",
+            "subtitle": "Web-App",
+            "description": "Web-App for sell food",
+            "technologies": [
+                {
+                    "icon": "devicon-vitejs-plain",
+                    "name": "Vitejs"
+                },
+                {
+                    "icon": "devicon-tailwindcss-original",
+                    "name": "Tailwindcss"
+                },
+                {
+                    "icon": "devicon-mongodb-plain",
+                    "name": "MongoDB"
+                },
+                {
+                    "icon": "devicon-express-original",
+                    "name": "Express.js"
+                }                
+            ],
+            "image": "/logochef.png",
+            "url": "https://proyecto-final-react-ventacomida.vercel.app/"
+        }
+    ],
+    "training": [
+        {
+            "icon": "graduation-cap",
+            "title": "UNAM",
+            "subtitle": "Universidad Nacional de Misiones",
+            "description": "2nd year of Electronic Engineering",
+            "date": "In progress",
+            "certificate": "Sin certificado"
+        }
+    ],
+    "cursos":[{
+        "icon": "graduation-cap",
+        "title": "Diseño Web Responsive - HTML5 y CSS3",
+        "subtitle": "Universidad Tecnológica Nacional Facultad Regional Resistencia Chaco - UTN FRRe",
+        "description": "Skills: CSS3 · HTML5 · Filezilla · Web hosting · CSS Flexbox · grid · Domain Registration · Front end development",
+        "date": "Completed in 2018",
+        "certificate": "https://media.licdn.com/dms/image/D4D2DAQGJeiHj7TTmVg/profile-treasury-image-shrink_800_800/0/1718671311220?e=1720742400&v=beta&t=jVYZOHGqmyWSpgwWB47dXzll19k1JS9GK9pBbe8y3Es"
+    },
+    {
+        "icon": "graduation-cap",
+        "title": "Desarrollo Front End - HTML, CSS y JS",
+        "subtitle": "Extensión Universitaria - UTN Buenos Aires",
+        "description": "Skills: CSS Flexbox · git · JavaScript · GitHub · HTML5 · CSS Grid Layout · API Testing · Front end development",
+        "date": "Completed in 2023",
+        "certificate": "https://media.licdn.com/dms/image/D4D2DAQFkJTxyaEkJOg/profile-treasury-image-shrink_800_800/0/1718649097341?e=1721001600&v=beta&t=liUL07UmHhfkAAaw9Ei8dR0V1NoLYIL6Mf8dOCw1FCk"
+    },
+    {
+        "icon": "graduation-cap",
+        "title": "Desarrollo Web Backend con React JS",
+        "subtitle": "Extensión Universitaria - UTN Buenos Aires",
+        "description": "Skills: React Native · MongoDB · React.js · React Hooks",
+        "date": "Completed in 2023",
+        "certificate": "https://media.licdn.com/dms/image/v2/D4D2DAQGMWCq2b03edw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1718634091011?e=1730908800&v=beta&t=_66lx406uFLPTkwTMmI6hs3VeBpfIZKP1kLeLN8DGbQ"
+    },
+    {
+        "icon": "graduation-cap",
+        "title": "Programación Web Full Stack con Java",
+        "subtitle": "Polo TIC Misiones",
+        "description": "Skills: Spring Security · MySQL · Spring Framework · Spring Boot · Spring MVC · Thymeleaf · Java",
+        "date": "Completed in 2023",
+        "certificate": "https://media.licdn.com/dms/image/v2/D4D2DAQEq-n497a8BFw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1718670085881?e=1730908800&v=beta&t=PYZIVz-qb85qkL3hKL_PThl3D8kSK2M94bcu2vxSAEQ"
+    },
+    {
+        "icon": "graduation-cap",
+        "title": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+        "subtitle": "Amazon Web Services (AWS)",
+        "description": "Skills: Amazon Web Services (AWS)",
+        "date": "Completed in 2023",
+        "certificate": "https://www.credly.com/badges/ae06e6d8-67f4-42b7-8f91-0af9e6f8646a/linked_in_profile"
+    },
+    {
+        "icon": "graduation-cap",
+        "title": "AWS Certified Cloud Practitioner",
+        "subtitle": "Amazon Web Services (AWS)",
+        "description": "Skills: Amazon Web Services (AWS)",
+        "date": "Completed in 2024",
+        "certificate": "https://www.credly.com/badges/8daea830-1172-495f-9a6c-3b74f8db0750/linked_in_profile"
+    }
+    ]
+}
